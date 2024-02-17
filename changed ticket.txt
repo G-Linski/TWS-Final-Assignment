@@ -5,6 +5,10 @@ Subject: Establish VPN Connection for Remote Work
 
 Employees working remotely need access to the company's data and resources. Therefore, a secure VPN connection is needed to work efficiently from home.
 
+PRIORITY: High
+
+CATEGORY: IT Support Team
+
 POTENTIAL IMPACT:
 A safe and secure VPN connection is extremely necessary as it:
 Ensures the confidentiality and secure access to the company's sensitive data.
