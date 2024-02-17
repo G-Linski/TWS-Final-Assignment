@@ -7,7 +7,7 @@ Employees working remotely need access to the company's data and resources. Ther
 
 PRIORITY: High
 
-CATEGORY: IT Support Team
+CATEGORY: IT Support
 
 POTENTIAL IMPACT:
 A safe and secure VPN connection is extremely necessary as it:
